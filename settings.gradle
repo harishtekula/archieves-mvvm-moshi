@@ -1,0 +1,3 @@
+rootProject.name = "vigosmart"
+include ':app'
+include ':api'
